@@ -19,13 +19,13 @@ Draw n samples from <img src="http://latex.codecogs.com/gif.latex?p(x)"/>, for e
 
 ## Results
 ### Triangle Parzen Window
-![Triangle](https://github.com/THUEishin/Homework-of-Pattern-Recognition-Course/blob/master/Parzen-Window/Tri.png)
+![Triangle](./Tri.png)
 
 ### Quadrateral Parzen Window
-![Quadrateral](https://github.com/THUEishin/Homework-of-Pattern-Recognition-Course/blob/master/Parzen-Window/Quad.png)
+![Quadrateral](./Quad.png)
 
 ### Square Parzen Window
-![Square](https://github.com/THUEishin/Homework-of-Pattern-Recognition-Course/blob/master/Parzen-Window/Square.png)
+![Square](./Square.png)
 
 ### Norm Parzen Window
-![Norm](https://github.com/THUEishin/Homework-of-Pattern-Recognition-Course/blob/master/Parzen-Window/Norm.png)
+![Norm](./Norm.png)
