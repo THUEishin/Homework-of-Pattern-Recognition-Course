@@ -16,3 +16,7 @@ Draw n samples from <img src="http://latex.codecogs.com/gif.latex?p(x)"/>, for e
 (e) Substitute <img src="http://latex.codecogs.com/gif.latex?h(x)"/> in (a) with Gaussian window. Repeat (a)-(e).
 
 (g) Try different window functions and parameters as many as you can. Which window function/parameter is the best one? Demonstrate it numerically.
+
+## Results
+### Triangle Parzen Window
+![Triangle](./Tri.png)
