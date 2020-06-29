@@ -3,9 +3,9 @@
 
 Assume:
 <img src="http://latex.codecogs.com/gif.latex?p(x)\sim0.2\mathcal{N}(-1,1)+0.8\mathcal{N}(1,1)"/>. 
-Draw n samples from <img src="http://latex.codecogs.com/gif.latex?p(x)"/>, for example, <img src="http://latex.codecogs.com/gif.latex?n=5,10,50,100,\cdots,1000,\cdots,10000"/>. Use Parzen-window method to estimate <img src="http://latex.codecogs.com/gif.latex?p_n(x)\approx p(x)"/> (Hint: use randn() function in matlab to draw samples)
+Draw n samples from <img src="http://latex.codecogs.com/gif.latex?p(x)"/>, for example, <img src="http://latex.codecogs.com/gif.latex?n=5,10,50,100,\cdots,1000,\cdots,10000"/>. Use Parzen-window method to estimate <img src="http://latex.codecogs.com/gif.latex?p_n(x)\approx\,p(x)"/> (Hint: use randn() function in matlab to draw samples)
 
-(a) Try window-function <img src="http://latex.codecogs.com/gif.latex?P(x)=\left\{\begin{aligned}&\frac{1}{a},-\frac{1}{2}a\leq x\leq \frac{1}{2}a \\&0,otherwise.\end{aligned}\right."/>. Estimate <img src="http://latex.codecogs.com/gif.latex?p(x)"/> with different window width <img src="http://latex.codecogs.com/gif.latex?a"/>. Please draw <img src="http://latex.codecogs.com/gif.latex?p_n(x)"/> under different <img src="http://latex.codecogs.com/gif.latex?n"/> and <img src="http://latex.codecogs.com/gif.latex?a"/> and <img src="http://latex.codecogs.com/gif.latex?p(x)"/> to show the estimation effect.
+(a) Try window-function <img src="http://latex.codecogs.com/gif.latex?P(x)=\left\{\begin{aligned}&\frac{1}{a},-\frac{1}{2}a\leq\,x\leq\frac{1}{2}a\\&0,otherwise.\end{aligned}\right."/>. Estimate <img src="http://latex.codecogs.com/gif.latex?p(x)"/> with different window width <img src="http://latex.codecogs.com/gif.latex?a"/>. Please draw <img src="http://latex.codecogs.com/gif.latex?p_n(x)"/> under different <img src="http://latex.codecogs.com/gif.latex?n"/> and <img src="http://latex.codecogs.com/gif.latex?a"/> and <img src="http://latex.codecogs.com/gif.latex?p(x)"/> to show the estimation effect.
 
 (b) Derive how to compute <img src="http://latex.codecogs.com/gif.latex?\epsilon(p_n)=\int[p_n(x)-p(x)]^2dx"/> numerically.
 
