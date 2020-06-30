@@ -14,3 +14,4 @@ This repository is used to restore my codes for programming homework of Pattern 
 ### 6. SVM (Support Vector Machine)
 ### 7. $k$-NN Classifier on MNIST
 ### 8. Feature selection with L1-norm regularization
+### 9. GNN (Graph Neural Network)
