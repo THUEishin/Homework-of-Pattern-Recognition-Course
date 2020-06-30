@@ -19,3 +19,4 @@ This repository is used to restore my codes for programming homework of Pattern 
 ### 11. MDS and city distance
 ### 12. ISOMAP and LLE
 ### 13. Decision Tree
+### 14. K-means, hierarchical clustering and spectral clustering
