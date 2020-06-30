@@ -26,3 +26,5 @@ Consider a two dimensional classification problems: $p(\omega_{1})=p(\omega_{2})
 ![](./fig/squarep.png)
 ### Norm Parzen Window
 ![](./fig/normp.png)
+### EM
+![](./fig/EM.png)
