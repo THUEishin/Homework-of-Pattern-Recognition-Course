@@ -11,3 +11,4 @@ This repository is used to restore my codes for programming homework of Pattern 
 ### 3. GMM (Gaussian Mixture Model)
 ### 4. Error Rate Estimation
 ### 5. Classical and Margin Perceptron
+### 6. SVM (Support Vector Machine)
