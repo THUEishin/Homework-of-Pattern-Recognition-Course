@@ -7,3 +7,5 @@ This repository is used to restore my codes for programming homework of Pattern 
 
 ## Problems
 ### 1. Function Estimation by Parzen Window method
+### 2. EM (Expectation Maximization)
+### 3. GMM (Gaussian Mixture Model)
