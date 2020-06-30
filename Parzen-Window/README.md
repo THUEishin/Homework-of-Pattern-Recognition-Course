@@ -19,13 +19,13 @@ Draw n samples from <img src="http://latex.codecogs.com/gif.latex?p(x)"/>, for e
 
 ## Results
 ### Triangle Parzen Window
-![Triangle](./Tri.png)
+![Triangle](./fig/Tri.png)
 
 ### Quadrateral Parzen Window
-![Quadrateral](./Quad.png)
+![Quadrateral](./fig/Quad.png)
 
 ### Square Parzen Window
-![Square](./Square.png)
+![Square](./fig/Square.png)
 
 ### Norm Parzen Window
-![Norm](./Norm.png)
+![Norm](./fig/Norm.png)
